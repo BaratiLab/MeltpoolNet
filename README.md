@@ -12,3 +12,10 @@ Two dataset has been collected for the MeltpoolNet.
 * XGBoost
 * Matplotlib
 * Scipy
+
+# Paper
+
+# Citation
+
+# Authors
+Parand Akbari, Francis Ogoke, Ning-Yu Kao, Kazem Meidani, Chun-Yu Yeh, William Lee, Amir Barati Farimani
