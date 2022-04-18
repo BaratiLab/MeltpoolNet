@@ -5,3 +5,5 @@ This github repository is for our paper "MeltpoolNet: Melt pool Characteristic P
 Two dataset has been collected for the MeltpoolNet. 
 1. Regression dataset for the meltpool geometry
 2. Classification dataset for the meltpool modes and defects
+# Dependecies
+. numpy
