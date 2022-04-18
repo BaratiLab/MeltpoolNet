@@ -4,7 +4,7 @@ This github repository is for our paper "MeltpoolNet: Melt pool Characteristic P
 # Dataset
 Two dataset has been collected for the MeltpoolNet:
 1. [Regression dataset for the meltpool geometry](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_regression.csv)
-2. [Classification dataset for the meltpool modes and defects] (https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_classification.csv) 
+2. [Classification dataset for the meltpool modes and defects](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_classification.csv) 
 # Dependecies
 * Numpy
 * Pandas
