@@ -3,7 +3,7 @@
 This github repository is for our paper "MeltpoolNet: Melt pool Characteristic Prediction in Metal Additive Manufacturing Using Machine Learning" published in the jounal of Additive Manufacturing. To read the paper, please visit the following link: 
 # Dataset
 Two dataset has been collected for the MeltpoolNet:
-1. Regression dataset for the meltpool geometry
+1. [Regression dataset for the meltpool geometry](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_regression.csv)
 2. [Classification dataset] (https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_classification.csv) for the meltpool modes and defects 
 # Dependecies
 * Numpy
