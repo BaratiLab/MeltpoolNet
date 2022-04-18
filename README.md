@@ -14,8 +14,10 @@ Two dataset has been collected for the MeltpoolNet.
 * Scipy
 
 # Paper
+Our paper can be found 
 
 # Citation
+If you use our data please cite: 
 
 # Authors
 Parand Akbari, Francis Ogoke, Ning-Yu Kao, Kazem Meidani, Chun-Yu Yeh, William Lee, Amir Barati Farimani
