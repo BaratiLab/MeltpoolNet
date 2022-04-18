@@ -18,7 +18,7 @@ Two dataset has been collected for the MeltpoolNet:
 Our paper can be found here.
 
 # Citation
-If you use our data please cite: 
+If you use our data and notebook please cite: 
 
 # Authors
 Parand Akbari, Francis Ogoke, Ning-Yu Kao, Kazem Meidani, Chun-Yu Yeh, William Lee, Amir Barati Farimani
