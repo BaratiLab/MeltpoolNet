@@ -7,7 +7,7 @@ Two dataset has been collected for the MeltpoolNet:
 2. [Classification dataset for the meltpool modes and defects](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_classification.csv) 
 
 # Prerequisites
-The following packages are required in order to run the associated code:
+The following modules and packages are required in order to run the associated code:
 * numpy
 * pandas
 * sklearn
@@ -16,7 +16,7 @@ The following packages are required in order to run the associated code:
 * scipy
 * hyperopt
 
-These modules and packages can be installed independently, or all at once by running pip install -r [requirements.txt](https://github.com/BaratiLab/MeltpoolNet/blob/main/requirements.txt)
+They can be installed independently, or all at once by running 'pip install -r [requirements.txt](https://github.com/BaratiLab/MeltpoolNet/blob/main/requirements.txt)'
 
 
 # Paper
