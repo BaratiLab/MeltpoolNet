@@ -16,7 +16,7 @@ The following modules and packages are required in order to run the associated c
 * scipy
 * hyperopt
 
-They can be installed independently, or all at once by running 'pip install -r [requirements.txt](https://github.com/BaratiLab/MeltpoolNet/blob/main/requirements.txt)'
+They can be installed independently, or all at once by running "pip install -r [requirements.txt](https://github.com/BaratiLab/MeltpoolNet/blob/main/requirements.txt)"
 
 
 # Paper
