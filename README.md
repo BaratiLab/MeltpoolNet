@@ -6,13 +6,18 @@ Two dataset has been collected for the MeltpoolNet:
 1. [Regression dataset for the meltpool geometry](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_regression.csv)
 2. [Classification dataset for the meltpool modes and defects](https://github.com/BaratiLab/MeltpoolNet/blob/main/Data/meltpoolnet_classification.csv) 
 
-# Dependecies
-* Numpy
-* Pandas
-* Sklearn
+# Prerequisites
+The following packages are required in order to run the associated code:
+* numpy
+* pandas
+* sklearn
 * XGBoost
-* Matplotlib
-* Scipy
+* matplotlib
+* scipy
+* hyperopt
+
+These modules and packages can be installed independently, or all at once by running pip install -r [requirements.txt](https://github.com/BaratiLab/MeltpoolNet/blob/main/requirements.txt)
+
 
 # Paper
 Our paper can be found here.
