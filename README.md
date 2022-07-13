@@ -20,7 +20,7 @@ They can be installed independently, or all at once by running `pip install -r r
 
 
 # Paper
-Our paper can be found here.
+Our paper can be found [here](https://www.sciencedirect.com/science/article/pii/S2214860422002172).
 
 # Citation
 If you use our data and notebook please cite: 
