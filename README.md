@@ -24,6 +24,7 @@ Our paper can be found [here](https://www.sciencedirect.com/science/article/pii/
 
 # Citation
 If you use our data and notebook please cite: 
+'''
 @article{AKBARI2022102817,
 title = {MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning},
 journal = {Additive Manufacturing},
@@ -33,7 +34,8 @@ year = {2022},
 issn = {2214-8604},
 doi = {https://doi.org/10.1016/j.addma.2022.102817},
 url = {https://www.sciencedirect.com/science/article/pii/S2214860422002172},
-author = {Parand Akbari and Francis Ogoke and Ning-Yu Kao and Kazem Meidani and Chun-Yu Yeh and William Lee and Amir {Barati Farimani}}
-}
+author = {Parand Akbari and Francis Ogoke and Ning-Yu Kao and Kazem Meidani and Chun-Yu Yeh and William Lee and Amir {Barati Farimani}}}
+'''
+
 # Authors
 Parand Akbari, Francis Ogoke, Ning-Yu Kao, Kazem Meidani, Chun-Yu Yeh, William Lee, Amir Barati Farimani
