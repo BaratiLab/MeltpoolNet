@@ -24,6 +24,7 @@ Our paper can be found [here](https://www.sciencedirect.com/science/article/pii/
 
 # Citation
 If you use our data and notebook please cite: 
+
 '''
 @article{AKBARI2022102817,
 title = {MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning},
